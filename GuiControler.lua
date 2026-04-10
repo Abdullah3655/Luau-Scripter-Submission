@@ -1,3 +1,5 @@
+-- This is the main gui script
+
 local CreateB = script.Parent.CreateServerB
 local ListB = script.Parent.ServerListB
 
