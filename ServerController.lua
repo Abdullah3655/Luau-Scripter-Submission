@@ -1,5 +1,4 @@
--- This is only the server script, there is also local scripts, but not included here
--- They are in the game tho to make it functional
+-- This is the server script
 
 -- Services
 local Players = game:GetService("Players")
